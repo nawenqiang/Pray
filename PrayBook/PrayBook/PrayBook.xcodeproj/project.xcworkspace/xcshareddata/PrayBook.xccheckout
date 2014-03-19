@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>205B778C-5EBD-4FF0-806C-832A297E64D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrayBook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>69D51082-582F-4446-8BE7-F7E8083E3CCB</key>
+		<string>https://git.oschina.net/jonear/PrayBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrayBook/PrayBook.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>69D51082-582F-4446-8BE7-F7E8083E3CCB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/jonear/PrayBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>69D51082-582F-4446-8BE7-F7E8083E3CCB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>69D51082-582F-4446-8BE7-F7E8083E3CCB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrayBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
